@@ -6,7 +6,7 @@ Louise wants to know how different campaigns peformed compared to their goals an
 The is to provide an analysis and visual representation of outcomes based on launch dates and funding goals.
 ## Analysis and Challenges
 As seen below, the summer months, have the most successful campaign outcomes for plays. The graph below shows May to be the peak month year over year. The analysis doesn't show us if there is a particular sub category that does well in May and this is a limitation of the data set we used. 
-![Outcomes_vs_Launch](/C:\Users\mereenaf\Documents\kickstarter-analysis\Challenge\Resources\Theater_Outcomes_vs_Launch.png)
+![Outcomes_vs_Launch](/kickstarter-analysis\Challenge\Resources\Theater_Outcomes_vs_Launch.png)
 When analyzing outcomes vs goals, it appears that the best outcomes were between 0 to 4,999 and 35,000 to 44,999. These results are graphically represented below. We analyzed the subcategory 'Plays' and its difficult to interpret if the other subcategories within theater would have bumped up other goals to being more successful. Another limitation of the dataset we used is not knowing when these 'Play' campaigns were launched. As we learned in the previous dataset, its possible that the successful goals did better during particular times of the year. If we know when, then Louise can maximize her launches for plays during that time and for the goal amounts that did well.
 ![Outcomes_vs_Launch](/C:\Users\mereenaf\Documents\Data Analysis Course Work\Module 1 - Excel\Challenge\Resources\Outcomes_vs_Goals.png)
 ### Analysis of Outcomes Based on Launch Date
